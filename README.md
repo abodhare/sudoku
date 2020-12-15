@@ -8,6 +8,8 @@ This project aims to highlight the use of React to build a game and also maintai
 
 A fun way to learn React for those who are still in the beginning stages!
 
+Have added a different solver for the backend. You can plugin other services as long as the interface is satisfied.
+
 Features:
 
 * Only functional components!
